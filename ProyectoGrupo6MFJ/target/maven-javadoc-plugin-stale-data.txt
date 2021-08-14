@@ -1,0 +1,49 @@
+@options
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'16'
+-sourcepath
+'C:/Users/jun frncico/Desktop/ProyectoGrupo6MFJ/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2021. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/jun frncico/Desktop/ProyectoGrupo6MFJ/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'ProyectoGrupo6MFJ 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'ProyectoGrupo6MFJ 1.0-SNAPSHOT API'
+'C:/Users/jun frncico/Desktop/ProyectoGrupo6MFJ/src/main/java/com/mycompany/proyectogrupo6mfj/CalculadoraMFJ.java'
+'C:/Users/jun frncico/Desktop/ProyectoGrupo6MFJ/src/main/java/com/mycompany/proyectogrupo6mfj/TablaCoversiones.java'
+'C:/Users/jun frncico/Desktop/ProyectoGrupo6MFJ/src/main/java/com/mycompany/proyectogrupo6mfj/variables.java'
+'C:/Users/jun frncico/Desktop/ProyectoGrupo6MFJ/src/main/java/Helper2/FuncionDeg.java'
+'C:/Users/jun frncico/Desktop/ProyectoGrupo6MFJ/src/main/java/Helper2/FuncionRad.java'
+'C:/Users/jun frncico/Desktop/ProyectoGrupo6MFJ/src/main/java/Helper2/PTrigono.java'
+C:\Users\jun frncico\Desktop\ProyectoGrupo6MFJ\src\main\java = 1628815138757
+C:\Users\jun frncico\Desktop\ProyectoGrupo6MFJ\target\apidocs\allclasses-index.html = 1628911408505
+C:\Users\jun frncico\Desktop\ProyectoGrupo6MFJ\target\apidocs\allpackages-index.html = 1628911408523
+C:\Users\jun frncico\Desktop\ProyectoGrupo6MFJ\target\apidocs\element-list = 1628911407924
+C:\Users\jun frncico\Desktop\ProyectoGrupo6MFJ\target\apidocs\help-doc.html = 1628911408813
+C:\Users\jun frncico\Desktop\ProyectoGrupo6MFJ\target\apidocs\index-all.html = 1628911408734
+C:\Users\jun frncico\Desktop\ProyectoGrupo6MFJ\target\apidocs\index.html = 1628911408417
+C:\Users\jun frncico\Desktop\ProyectoGrupo6MFJ\target\apidocs\jquery-ui.overrides.css = 1628911409050
+C:\Users\jun frncico\Desktop\ProyectoGrupo6MFJ\target\apidocs\member-search-index.js = 1628911408581
+C:\Users\jun frncico\Desktop\ProyectoGrupo6MFJ\target\apidocs\module-search-index.js = 1628911408526
+C:\Users\jun frncico\Desktop\ProyectoGrupo6MFJ\target\apidocs\overview-summary.html = 1628911408740
+C:\Users\jun frncico\Desktop\ProyectoGrupo6MFJ\target\apidocs\overview-tree.html = 1628911408404
+C:\Users\jun frncico\Desktop\ProyectoGrupo6MFJ\target\apidocs\package-search-index.js = 1628911408529
+C:\Users\jun frncico\Desktop\ProyectoGrupo6MFJ\target\apidocs\script.js = 1628911408859
+C:\Users\jun frncico\Desktop\ProyectoGrupo6MFJ\target\apidocs\search.js = 1628911408869
+C:\Users\jun frncico\Desktop\ProyectoGrupo6MFJ\target\apidocs\serialized-form.html = 1628911408231
+C:\Users\jun frncico\Desktop\ProyectoGrupo6MFJ\target\apidocs\stylesheet.css = 1628911408852
+C:\Users\jun frncico\Desktop\ProyectoGrupo6MFJ\target\apidocs\tag-search-index.js = 1628911408604
+C:\Users\jun frncico\Desktop\ProyectoGrupo6MFJ\target\apidocs\type-search-index.js = 1628911408578
